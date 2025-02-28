@@ -1,5 +1,5 @@
  Rakesh Boda | Data Engineer & Data Analyst  
- ![Profile Image](Rakesh Boda)
+ ![Profile Image](Rakesh_Boda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/boda-rakesh-0922011a4/)  
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](https://medium.com/@bodarakesh001)  
   
