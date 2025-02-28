@@ -1,6 +1,7 @@
  Rakesh Boda | Data Engineer & Data Analyst  
  ![Profile Image](Rakesh_Boda)
- 📄 [![Resume](https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/mnt/data/Rakesh_Resume.docx)
+ 
+ [![Resume](https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Rakesh_Resume.docx)
 
 ---
 
