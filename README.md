@@ -1,4 +1,4 @@
- Rakesh Boda | Data Engineer & Data Analyst  
+ **Rakesh Boda | Data Engineer & Data Analyst**  
  ![Profile Image](Rakesh_Boda)
  
  [![Resume](https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Rakesh_Resume.docx)
