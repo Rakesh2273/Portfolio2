@@ -1,9 +1,8 @@
-# 🚀 Rakesh Boda | Data Engineer & Data Analyst  
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=rakeshboda&label=Profile+Views)  
+ Rakesh Boda | Data Engineer & Data Analyst  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/boda-rakesh-0922011a4/)  
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](https://medium.com/@bodarakesh001)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=github)](your-portfolio-url)  
+  
 
 ---
 
