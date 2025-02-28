@@ -1,9 +1,6 @@
  Rakesh Boda | Data Engineer & Data Analyst  
  ![Profile Image](Rakesh_Boda)
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/boda-rakesh-0922011a4/)  
-[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](https://medium.com/@bodarakesh001)  
-  
 
 ---
 
@@ -57,9 +54,7 @@ I am an experienced **Data Engineer** and **Data Analyst** with a passion for bu
 
 ## 📫 Connect with Me  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/boda-rakesh-0922011a4/)  
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](https://medium.com/@bodarakesh001)  
 📧 **Email:** [bodarakesh001@gmail.com](mailto:bodarakesh001@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/boda-rakesh-0922011a4](www.linkedin.com/in/boda-rakesh-0922011a4)  
-📝 **Medium Articles:** [medium.com/@bodarakesh001](https://medium.com/@bodarakesh001)  
-  
-
 
