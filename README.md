@@ -55,18 +55,12 @@ I am an experienced **Data Engineer** and **Data Analyst** with a passion for bu
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshboda&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshboda&layout=compact&theme=dark)  
-
----
 
 ## 📫 Connect with Me  
 
 📧 **Email:** [bodarakesh001@gmail.com](mailto:bodarakesh001@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/rakeshboda](your-linkedin-url)  
-📝 **Medium Articles:** [medium.com/@rakeshboda](your-medium-url)  
-🌐 **Portfolio:** [your-portfolio-url](your-portfolio-url)  
+🔗 **LinkedIn:** [linkedin.com/in/rakeshboda](www.linkedin.com/in/boda-rakesh-0922011a4)  
+📝 **Medium Articles:** [medium.com/@rakeshboda](https://medium.com/@bodarakesh001)  
+  
 
 
