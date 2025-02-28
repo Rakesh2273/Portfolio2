@@ -48,8 +48,7 @@ I am an experienced **Data Engineer** and **Data Analyst** with a passion for bu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Spark-FDB515?style=for-the-badge&logo=apache-spark&logoColor=black)  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Spark-FDB515?style=for-the-badge&logo=apache-spark&logoColor=black)    
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
@@ -59,8 +58,8 @@ I am an experienced **Data Engineer** and **Data Analyst** with a passion for bu
 ## 📫 Connect with Me  
 
 📧 **Email:** [bodarakesh001@gmail.com](mailto:bodarakesh001@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/rakeshboda](www.linkedin.com/in/boda-rakesh-0922011a4)  
-📝 **Medium Articles:** [medium.com/@rakeshboda](https://medium.com/@bodarakesh001)  
+🔗 **LinkedIn:** [linkedin.com/in/boda-rakesh-0922011a4](www.linkedin.com/in/boda-rakesh-0922011a4)  
+📝 **Medium Articles:** [medium.com/@bodarakesh001](https://medium.com/@bodarakesh001)  
   
 
 
