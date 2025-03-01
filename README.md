@@ -38,6 +38,15 @@ I am an experienced **Data Engineer** and **Data Analyst** with a passion for bu
 - Performed **exploratory data analysis (EDA)** to uncover trends and patterns.  
 - Assisted in **predictive modeling** and statistical analysis for performance forecasting.  
 
+### **🔹 Software Developer | LTI Mindtree | January 2020 – September 2021**  
+- Designed and developed **RESTful APIs** for seamless integrations.  
+- Built **CI/CD pipelines** using Jenkins and GitLab.  
+- Optimized **database queries** for performance improvements.  
+
+### **🔹 Software Developer Intern | LTI Mindtree | May 2019 – December 2019**  
+- Assisted in **Flask and FastAPI backend development**.  
+- Developed **automated testing scripts** with Selenium and Pytest.  
+- Worked on optimizing database queries for faster execution.  
 
 ---
 
@@ -46,9 +55,13 @@ I am an experienced **Data Engineer** and **Data Analyst** with a passion for bu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Spark-FDB515?style=for-the-badge&logo=apache-spark&logoColor=black)    
+![Apache Spark](https://img.shields.io/badge/Spark-FDB515?style=for-the-badge&logo=apache-spark&logoColor=black)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)    
 
 ---
 
